@@ -1,11 +1,5 @@
 # 👨‍💻 Will Silva
 
-**Data & AI Strategy Specialist | BI & Automation Enthusiast**
-
-Sou especialista em planejamento estratégico, BI e automação com foco em transformar dados em insights acionáveis para eficiência operacional e redução de custos. Apesar de minha atuação principal ser voltada à estratégia e à tomada de decisão, desenvolvo projetos paralelos para automatizar processos, explorar novas ferramentas e gerar impacto real com tecnologia aplicada.  
-Tenho conhecimento em React, TypeScript, Python, SQL, bancos relacionais, BigQuery, Google Apps Script, Flowise, além de ferramentas de visualização de dados como Power BI e Looker Studio.  
-Acompanhei de perto o avanço da IA generativa e utilizo GPT, Gemini, GitHub Copilot e AI Studio para acelerar análises, desenvolvimento e soluções.
-
 <p align="left">
   <a href="https://github.com/wouwill?tab=repositories&sort=stargazers">
     <img 
