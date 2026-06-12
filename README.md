@@ -1,4 +1,5 @@
 # 👨‍💻 Will Silva
+**Data Analyst @ Unico Skill**
 
 <p align="left">
   <a href="https://github.com/wouwill?tab=repositories&sort=stargazers">
@@ -26,19 +27,28 @@
 
 ---
 
-### Tecnologias e Ferramentas
+### 🎯 Sobre mim
+
+Sou Data Analyst na Unico Skill (do Grupo Unico IDTech), atuando na tribo `skill-eng`. Meu trabalho consiste em organizar informações complexas e garantir que as áreas de negócio tenham acesso a dados confiáveis para a tomada de decisão, atuando desde a modelagem até a visualização final.
+
+* **Engenharia analítica:** desenvolvimento de pipelines ELT utilizando **Google Cloud Platform (BigQuery)** e **Dataform**, construindo a camada analítica com foco em qualidade, padronização e governança.
+* **Dataviz & Negócios:** criação de dashboards **(Metabase/Looker)** focados em clareza e usabilidade, traduzindo métricas técnicas em respostas diretas para diferentes níveis das áreas de negócio.
+* **Práticas de código:** foco na escrita de SQL limpo, legível e otimizado (uso adequado de partições/clusters, queries materializadas e versionamento).
+
+---
+
+### 🛠️ Stack e Ferramentas
 
 <div>
-  <img alt="TypeScript" title="TypeScript" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
-  <img alt="React" title="React" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-  <img alt="Tailwind CSS" title="Tailwind CSS" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"/>
-  <img alt="Python" title="Python" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-  <img alt="SQL" title="SQL" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-  <img alt="PHP" title="PHP" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
-  <img alt="C#" title="C#" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
-  <img alt="BigQuery" title="BigQuery / Google Cloud" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"/>
-  <img alt="Google Apps Script" title="Google Apps Script" width="30" src="https://www.gstatic.com/images/branding/product/2x/apps_script_64dp.png"/>
-  <img alt="IA Generativa" title="GPT, Gemini, Copilot, AI Studio" width="30" src="https://cdn-icons-png.flaticon.com/512/4712/4712109.png"/>
+  <img alt="BigQuery" title="Google BigQuery" width="40" src="https://images.icon-icons.com/2699/PNG/512/google_bigquery_logo_icon_168150.png"/>
+  <img alt="SQL" title="SQL" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+  <img alt="GitHub" title="GitHub" width="40" src="https://cdn.worldvectorlogo.com/logos/github-icon-2.svg"/>
+  <img alt="Git" title="Git" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+  <img alt="Metabase" title="Metabase" width="40" src="https://images.icon-icons.com/2699/PNG/512/metabase_logo_icon_170959.png"/>
+  <img alt="Google Cloud Platform" title="Google Cloud Platform" width="40" src="https://img.icons8.com/color/512/google-cloud.png"/>
+  <img alt="Google Dataform" title="Google Dataform" width="40" src="https://miro.medium.com/v2/1*YxXSnC7X5twjoC6p3QDG3Q.png"/>
+  <img alt="Claude AI" title="Claude AI" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Claude_AI_symbol.svg/1280px-Claude_AI_symbol.svg.png"/>
+  <img alt="Python" title="Python" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 </div>
 
 <br/>
@@ -49,16 +59,16 @@
   <tr>
     <td>
       <img
-        alt="Will Silva" 
+        alt="Will Silva Stats" 
         height="200"
-        src="https://github-readme-stats.vercel.app/api?username=wouwill&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&custom_title=Will"
+        src="https://github-readme-stats.vercel.app/api?username=wouwill&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&custom_title=Impacto%20e%20Commits"
       />
     </td>
     <td>
       <img
         alt="Top Langs" 
         height="200"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=wouwill&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=wouwill&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=6"
       />
     </td>
   </tr>
