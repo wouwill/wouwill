@@ -1,75 +1,44 @@
-# 👨‍💻 Will Silva
-**Data Analyst @ Unico Skill**
+# Willian Pedro da Silva (Will)
 
-<p align="left">
-  <a href="https://github.com/wouwill?tab=repositories&sort=stargazers">
-    <img 
-      alt="Estrelas no GitHub" 
-      title="Total de estrelas no GitHub" 
-      src="https://custom-icon-badges.demolab.com/github/stars/wouwill?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-    />
-  </a>
-  <a href="https://github.com/wouwill?tab=followers">
-    <img 
-      alt="Seguidores no GitHub" 
-      title="Me siga no GitHub" 
-      src="https://custom-icon-badges.demolab.com/github/followers/wouwill?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=seguidores&logoColor=white"
-    />
-  </a>
-  <a href="https://www.linkedin.com/in/willianpsilva">
-    <img
-      alt="LinkedIn"
-      title="Conecte-se no LinkedIn"
-      src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white&style=for-the-badge"
-    />
-  </a>
-</p>
+**Analytics Engineer · Data & AI na Unico Skill** · Londrina, PR, Brasil
+
+Trabalho na camada de dados que transforma operação em decisão: modelos em SQL testados em BigQuery e Dataform, ingestão de fontes internas e externas e dashboards construídos como código.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-willianpsilva-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/willianpsilva)
 
 ---
 
-### 🎯 Sobre mim
+### O que faço
 
-Sou Data Analyst na Unico Skill (do Grupo Unico IDTech), atuando na tribo `skill-eng`. Meu trabalho consiste em organizar informações complexas e garantir que as áreas de negócio tenham acesso a dados confiáveis para a tomada de decisão, atuando desde a modelagem até a visualização final.
+- **Modelagem em camadas** (raw, gold e camada semântica), com fatos, dimensões e regras de negócio explícitas em tabelas de de-para no lugar de regra escondida em código.
+- **ETL e ingestão** de ferramentas internas e externas (como Salesforce, Zendesk e HubSpot) com Airbyte e Python, com carga íntegra e otimizada.
+- **Qualidade antes da entrega:** assertions como dependência, prova de paridade antes de trocar uma fonte e rollback barato.
+- **Dashboards como código** (Apps Script e React), versionados e revisados como qualquer outro código.
+- **LLM aplicado a dados:** classificação de dados estruturados e não estruturados dentro do BigQuery (BigQuery ML e Gemini), com regras de negócio auditáveis.
 
-* **Engenharia analítica:** desenvolvimento de pipelines ELT utilizando **Google Cloud Platform (BigQuery)** e **Dataform**, construindo a camada analítica com foco em qualidade, padronização e governança.
-* **Dataviz & Negócios:** criação de dashboards **(Metabase/Looker)** focados em clareza e usabilidade, traduzindo métricas técnicas em respostas diretas para diferentes níveis das áreas de negócio.
-* **Práticas de código:** foco na escrita de SQL limpo, legível e otimizado (uso adequado de partições/clusters, queries materializadas e versionamento).
+### Como trabalho
+
+Número honesto, com denominador à vista. Spec do produto de dados antes do código. Decisões registradas. Entregas em fatias finas por consumidor.
+
+### Como uso IA
+
+Claude Code com MCP para consultar, validar e documentar dados, com controle de custo e validação antes de executar. A regra de negócio, a modelagem e a responsabilidade pelo número continuam comigo.
+
+### Stack
+
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white)
+![Dataform](https://img.shields.io/badge/Dataform-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt_(em_adoção)-FF694B?style=flat-square&logo=dbt&logoColor=white)
+![Airbyte](https://img.shields.io/badge/Airbyte-615EFF?style=flat-square&logo=airbyte&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Apps Script](https://img.shields.io/badge/Apps_Script-4285F4?style=flat-square&logo=google&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=flat-square&logo=looker&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
 
 ---
 
-### 🛠️ Stack e Ferramentas
-
-<div>
-  <img alt="BigQuery" title="Google BigQuery" width="40" src="https://images.icon-icons.com/2699/PNG/512/google_bigquery_logo_icon_168150.png"/>
-  <img alt="SQL" title="SQL" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-  <img alt="GitHub" title="GitHub" width="40" src="https://cdn.worldvectorlogo.com/logos/github-icon-2.svg"/>
-  <img alt="Git" title="Git" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-  <img alt="Metabase" title="Metabase" width="40" src="https://images.icon-icons.com/2699/PNG/512/metabase_logo_icon_170959.png"/>
-  <img alt="Google Cloud Platform" title="Google Cloud Platform" width="40" src="https://img.icons8.com/color/512/google-cloud.png"/>
-  <img alt="Google Dataform" title="Google Dataform" width="40" src="https://miro.medium.com/v2/1*YxXSnC7X5twjoC6p3QDG3Q.png"/>
-  <img alt="Claude AI" title="Claude AI" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Claude_AI_symbol.svg/1280px-Claude_AI_symbol.svg.png"/>
-  <img alt="Python" title="Python" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-</div>
-
-<br/>
-
-### 📊 Estatísticas
-
-<table>
-  <tr>
-    <td>
-      <img
-        alt="Will Silva Stats" 
-        height="200"
-        src="https://github-readme-stats.vercel.app/api?username=wouwill&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&custom_title=Impacto%20e%20Commits"
-      />
-    </td>
-    <td>
-      <img
-        alt="Top Langs" 
-        height="200"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=wouwill&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=6"
-      />
-    </td>
-  </tr>
-</table>
+Formação em Direito e técnico em Finanças. Comecei na operação, passei por workforce management, planejamento e BI, e hoje trabalho com analytics engineering.
